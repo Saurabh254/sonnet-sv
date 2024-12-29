@@ -1,0 +1,6 @@
+.venv
+__pycache__
+.idea
+config.py
+config.js
+backend/app/config.py
